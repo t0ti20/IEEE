@@ -10,8 +10,8 @@
 #define _QUEUE_H_
 /*---------- Include Files -------------*/
 #include <stdio.h>
-#include "../../Library/Standard_Types.h"
-#include "../../Library/Macros.h"
+#include "./Standard_Types.h"
+#include "./Macros.h"
 /*****************************************
 ----------   Configuration    ------------
 *****************************************/
